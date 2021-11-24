@@ -1,0 +1,10 @@
+.row{
+    color: #121d59;
+}
+/* .sub1{
+    background-image: linear-gradient(to bottom,rgba(252,202,115,255),rgba(225,184,128,255),rgba(243,196,118,255),rgba(178,154,152,255),rgba(104,105,187,255),rgba(37,60,214,255),rgba(20,29,169,255)
+,rgba(20,29,107,255),rgba(19,29,94,255));
+} */
+.sub1{
+    background-image: linear-gradient(to bottom,#f4c575,#131d63 );
+}

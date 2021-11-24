@@ -1,0 +1,28 @@
+.row{
+border: 2px solid white;
+border-radius: 50px;
+background-image: linear-gradient(to right,rgba(19,29,91,255),
+rgba(20,31,103,255),rgba(19,33,120,255),rgba(19,34,125,255),rgba(20,40,171,255),rgba(20,46,202,255),rgba(31,55,211,255),rgba(43,64,208,255),rgba(80,87,191,255),rgba(106,105,180,255)
+,rgba(119,113,173,255),rgba(144,131,161,255),rgba(158,139,155,255),rgba(183,157,144,255),rgba(193,162,140,255),rgba(193,162,139,255),rgba(245,198,117,255),rgba(255,204,112,255)
+);
+}
+.icon{
+    border-radius: 10px;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
